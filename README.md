@@ -1,4 +1,2 @@
 # Matrix
-Falling Characters Effect
-
-Developed using JavaScript
+Falling Characters Effect Developed using JavaScript
